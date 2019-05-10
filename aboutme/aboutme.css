@@ -1,0 +1,101 @@
+body {background-blend-mode:saturation;
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration: none;
+    background-image: url(animecastle.jpeg);
+    background-repeat: no-repeat;
+    background-size: 2380px;
+}
+
+#wrapper {width: 80%;
+    align-content: center;
+margin-left: auto;
+margin-right: auto;
+min-width: 960px;
+max-width: 2048px;
+box-shadow: 3px #333333; 
+}
+
+header {color: black; 
+    text-align: center;
+    height: 60px;
+    padding-top: 15px;   
+}
+
+h1 {margin-bottom: 0;
+    margin-top: 0;
+    font-family: Georgia, 'Times New Roman', serif; 
+}
+
+nav {float: left;
+    width: 150px;
+    font-weight: bold;
+    padding: 20px;
+    color: deeppink;
+    
+}
+
+nav a {
+    text-decoration: none;
+    color: deeppink;
+    justify-content: space-between;
+    
+    
+}
+
+nav ul {
+    list-style-type: none;
+    padding-left: 0;
+    font-size: 1.2em;
+}
+
+main {padding-top: 1px;
+    padding-right: 20px;
+    padding-bottom: 20px;
+    padding-left: 30px;
+    margin-left: 190px;
+    display: block;
+}
+
+h2 {color: black; 
+    font-family: Georgia, 'Times New Roman', serif; 
+    text-shadow: 1px 1px 1px #ccc;
+}
+
+footer {
+    font-size: 100%; 
+    font-style: italic;
+    font-family: Georgia, 'Times New Roman', serif; 
+    text-align: center; 
+    padding: 20px;
+    margin-left: 190px;
+   
+}
+
+.email {
+    color: deeppink;
+    font-weight: bolder;
+    font-style: italic;
+    font-family: Georgia, 'Times New Roman', serif; 
+    line-height: 45px;
+}
+
+#contact {font-size: 1.2em;
+}
+
+div a {
+    color: black;
+    font-style: oblique;
+    font-family: Georgia, 'Times New Roman', serif;
+    
+    
+}
+
+div img {
+    height: 150px;
+    float: right;
+}
+
+.color-change {
+    color: deeppink;
+    
+}
